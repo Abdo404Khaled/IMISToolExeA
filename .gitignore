@@ -1,0 +1,19 @@
+# local python environment used to execute the notebooks
+.venv*/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# datasets downloaded by the notebooks (MNIST / CIFAR-10 / corpora fetched at runtime)
+data/
+800/data/
+Report/data/
+
+# artefacts produced by running the notebooks
+*.pt
+fake_photos/
+photo.jpg
+digit.jpg
+.ipynb_checkpoints/
