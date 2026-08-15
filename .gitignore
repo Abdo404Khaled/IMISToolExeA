@@ -17,3 +17,14 @@ fake_photos/
 photo.jpg
 digit.jpg
 .ipynb_checkpoints/
+
+# Report 5 photo dataset (large; lives on Google Drive, not in git)
+Dataset.zip
+800/Dataset.zip
+cutlery_data/
+Dataset/
+
+# Report 5 working files (dataset lives on Google Drive)
+Dataset_jpg/
+cutlery_data.zip
+sheet_*.png
